@@ -36,6 +36,8 @@ Many sites aggregate job listing from a variety of sources, it can 'sometimes' b
 | ❇️ | [GoRemote](https://goremote.io/) | Jobs board aggregator. | | 2,000,000 |🌟|
 | ❇️ | [Go Remote Jobs](https://goremotejobs.com/) | Jobs board aggregator. | | 19,000,000 |🌟|
 | ❇️ | [Remote Zoo](https://www.remotezoo.com/) | Jobs board aggregator. | | No rating | 🌟|
+| ❇️ | [Remote Hunter](https://remotehunter.xyz/) | Jobs board where people can hand in their application for review. | | No rating | 🌟|
+
 
 &nbsp;
 
